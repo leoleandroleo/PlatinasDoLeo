@@ -1,0 +1,26 @@
+#Titulo {
+  color: white;
+}
+
+a {
+  color: aqua;
+}
+
+.conteudo {
+  color: white;
+}
+
+body {
+  background: black;
+  text-align: center;
+  /* background-image: url("paper.gif"); */
+}
+
+#particles-js {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  z-index: -1;
+}
